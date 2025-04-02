@@ -10,16 +10,9 @@ A simple, ready-to-use Express.js template with TypeScript support and watch mod
 
 ## Installation
 
-### Using GitHub
-```sh
-git clone https://github.com/your-username/express-ts-template.git my-app
-cd my-app
-npm install
-```
-
 ### Using CLI (if published as an npm package)
 ```sh
-npx create-ts-express my-app
+npx create-ts-express-template my-app
 cd my-app
 npm install
 ```
