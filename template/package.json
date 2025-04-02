@@ -1,5 +1,5 @@
 {
-    "name": "express-ts-template",
+    "name": "express-ts-template-cli",
     "version": "1.0.0",
     "description": "Express + TypeScript template",
     "main": "dist/index.js",
