@@ -41,6 +41,4 @@ my-app/
 ├── nodemon.json   # Nodemon settings
 ```
 
-## License
-MIT
 
